@@ -2,7 +2,7 @@
 
 <img align="right" width="150" src="https://www.dijure.com/images/company/avatar.png">
 
-<img align="right" width="150" src="https://www.dijure.com/images/company/dijure-logo-small.png">
+<img align="right" width="150" src="assets/dijure-logo-light.png">
 
 I'm an independent software architect and facinated with the wide array of choices to deliver cloud native based solutions. My favorite connections are finding those "aha!" moments to help your career move forward in the cloud native ecosystem.
 <br>:cloud:
