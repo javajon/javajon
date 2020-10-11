@@ -5,5 +5,5 @@ I'm an independent software architect and facinated with the wide array of choic
 
 <br>:cloud:
 
-- [Customized Workshops](https://www.dijure.com/services/) are available to help your team close those gaps as you transition toward distributed computing.
-- How to reach me: [Dijure.com](https://www.dijure.com/contact/)
+- <a href="https://www.dijure.com/services" target="_blank">Customized Workshops</a> are available to help your team close those gaps as you transition toward distributed computing.
+- How to reach me: <a href="https://www.dijure.com/contact" target="_blank">Dijure.com</a>
