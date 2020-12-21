@@ -6,4 +6,4 @@
 
 - [Customized Workshops](https://www.dijure.com/services) are available to help your team transitions to distributed computing.
 - How to reach me: [Dijure.com](https://www.dijure.com/contact)
-- Try these hands-on [Katacoda tutorials](https://katacoda.com/javajon) covering some of the topics I teach about.
+- Try these hands-on [Katacoda tutorials](https://katacoda.com/javajon) covering many of the topics I teach about.
